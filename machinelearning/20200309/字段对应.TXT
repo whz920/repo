@@ -1,0 +1,91 @@
+股票代码                     Ticker Symbol	
+期末                         Period Ending	
+应付账款                     Accounts Payable	
+应收账款                     Accounts Receivable	
+加上收入/支出项目            Add'l income/expense items	
+税后净资产收益率             After Tax ROE	
+资本支出                     Capital Expenditures	
+资本公积                     Capital Surplus	
+现金比率                     Cash Ratio	
+现金及现金等价物             Cash and Cash Equivalents	
+存货增加                     Changes in Inventories	
+普通股                       Common Stocks	
+收入成本                     Cost of Revenue	
+流动比率                     Current Ratio	
+递延资产费用                 Deferred Asset Charges	
+递延负债费用                 Deferred Liability Charges	
+折旧                         Depreciation	
+息税前收益                   Earnings Before Interest and Tax	
+税前收益                     Earnings Before Tax	
+汇率效应                     Effect of Exchange Rate	
+未合并子公司权益损益         Equity Earnings/Loss Unconsolidated Subsidiary	
+固定资产                     Fixed Assets	
+善意                         Goodwill	
+毛利率                       Gross Margin	
+毛利润                       Gross Profit	
+所得税                       Income Tax	
+无形资产                     Intangible Assets	
+利息支出                     Interest Expense	
+库存                         Inventory	
+投资                         Investments	
+债务                         Liabilities	
+长期债务                     Long-Term Debt	
+长期投资                     Long-Term Investments	
+少数股东权益                 Minority Interest	
+杂项。股票                   Misc. Stocks	
+净借款                       Net Borrowings	
+净现金流量                   Net Cash Flow	
+经营活动现金流量净额         Net Cash Flow-Operating	
+净现金流融资                 Net Cash Flows-Financing	
+净现金流投资                 Net Cash Flows-Investing	
+净收入                       Net Income	
+净收入调整                   Net Income Adjustments	
+适用于普通股股东的净收入     Net Income Applicable to Common Shareholders	
+净收入-持续经营              Net Income-Cont. Operations	
+应收账款净额                 Net Receivables	
+非经常性项目                 Non-Recurring Items	
+营业收入                     Operating Income	
+营业利润率                   Operating Margin	
+其他资产                     Other Assets	
+其他流动资产                 Other Current Assets	
+其他流动负债                 Other Current Liabilities	
+其他权益                     Other Equity	
+其他融资活动                 Other Financing Activities	
+其他投资活动                 Other Investing Activities	
+其他负债                     Other Liabilities	
+其他经营活动                 Other Operating Activities	
+其他经营项目                 Other Operating Items	
+税前利润                     Pre-Tax Margin	
+税前净资产收益率             Pre-Tax ROE	
+利润率                       Profit Margin	
+速比                         Quick Ratio	
+研发                         Research and Development	
+留存收益                     Retained Earnings	
+股票买卖                     Sale and Purchase of Stock	
+销售，总务和行政。           Sales, General and Admin.	
+短期债务/长期债务的流动部分  Short-Term Debt / Current Portion of Long-Term Debt	
+短期投资                     Short-Term Investments	
+总资产                       Total Assets	
+流动资产总额                 Total Current Assets	
+流动负债总额                 Total Current Liabilities	
+总股本                       Total Equity	
+负债总额                     Total Liabilities	
+负债及权益总额               Total Liabilities & Equity	
+总收入                       Total Revenue	
+库存股票                     Treasury Stock	
+一年                         For Year	
+每股收益                     Earnings Per Share	
+估计已发行股份               Estimated Shares Outstanding
+      																					
+
+
+
+Ticker symbol	
+Security	
+SEC filings
+GICS Sector	
+GICS Sub Industry	
+Address of Headquarters	
+Date first added	
+CIK
+			
